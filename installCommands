@@ -1,0 +1,5 @@
+npm install --save-dev hardhat
+npm install --save-dev nft.storage
+npx hardhat
+npx hardhat compile
+npm init
