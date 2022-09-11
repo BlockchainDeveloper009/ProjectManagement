@@ -1,4 +1,4 @@
-#create new branch
+# create new branch
 
 $git switch -c test origin/devbr 
 --test (newbranch name) ; devbr (old/default branch name)
